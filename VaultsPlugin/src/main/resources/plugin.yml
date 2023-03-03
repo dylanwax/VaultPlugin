@@ -1,0 +1,8 @@
+name: VaultsPlugin
+version: '${project.version}'
+main: me.farrie.vaultsplugin.VaultsPlugin
+api-version: 1.8.8
+commands:
+  pv:
+    description: opens a player vault
+    aliases: vault

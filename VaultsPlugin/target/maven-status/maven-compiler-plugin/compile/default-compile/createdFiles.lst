@@ -1,0 +1,4 @@
+me/farrie/vaultsplugin/commands/openVaultCommand.class
+me/farrie/vaultsplugin/VaultsPlugin.class
+me/farrie/vaultsplugin/utils/VaultUtils.class
+me/farrie/vaultsplugin/listeners/Listeners.class
